@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='View Movies' width=''/>
+<img src='https://github.com/rcung000/FlixMovieAppRepo2/blob/main/FlixMovieApp_ViewMoviesAdvanced.gif' title='View Movies Advanced' width=''/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
